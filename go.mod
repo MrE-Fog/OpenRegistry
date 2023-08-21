@@ -14,7 +14,7 @@ require (
 	github.com/go-playground/validator/v10 v10.15.0
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/google/go-github/v42 v42.0.0
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.3.1
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/jackc/pgx/v4 v4.17.2
 	github.com/labstack/echo-contrib v0.13.0
